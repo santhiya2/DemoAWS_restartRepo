@@ -1,5 +1,5 @@
 #Useful Vi Editor Commands
-
+new commit
 :w --> save to a file
 :q --> quit out of editor file
 :q! --> quit out of editor without saving file
